@@ -1,0 +1,36 @@
+{
+    "BigQuery Schema": [{
+    "name": "opportunity_id",
+    "type": "STRING"
+  },
+  {
+    "name": "sales_agent",
+    "type": "STRING"
+  },
+  {
+    "name": "product",
+    "type": "STRING"
+  },
+  {
+    "name": "account",
+    "type": "STRING"
+  },
+  {
+    "name": "deal_stage",
+    "type": "STRING"
+  },
+  {
+    "name": "engage_date",
+    "type": "DATE"
+  },
+  {
+    "name": "close_date",
+    "type": "STRING"
+  },
+  {
+    "name": "close_value",
+    "type": "STRING"
+  }
+    ]
+   }
+
